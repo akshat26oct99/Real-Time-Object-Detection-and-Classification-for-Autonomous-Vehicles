@@ -1,4 +1,4 @@
-# Traffic Object Detection in Real-Time
+# Real Time Object Detection and Classification for Autonomous Vehicles
 
 This project aims to detect and classify traffic objects in real-time using two advanced models: YOLO and Faster R-CNN. We trained these models on the BDD100K dataset, a comprehensive driving video dataset with diverse scenes and annotations. The goal is to compare their performances and achieve a comparable mean Average Precision (mAP) to the state-of-the-art.
 
